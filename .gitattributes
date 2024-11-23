@@ -1,0 +1,7 @@
+DRONE[[:space:]]Completed[[:space:]]Files.zip filter=lfs diff=lfs merge=lfs -text
+assorted[[:space:]]pdfs.zip filter=lfs diff=lfs merge=lfs -text
+cringe.zip filter=lfs diff=lfs merge=lfs -text
+photos/me-kid-ai.jpeg filter=lfs diff=lfs merge=lfs -text
+photos/me-propaganda-ai-bw.png filter=lfs diff=lfs merge=lfs -text
+photos/drummond.png filter=lfs diff=lfs merge=lfs -text
+photos/me-hippie.jpeg filter=lfs diff=lfs merge=lfs -text
